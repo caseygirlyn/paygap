@@ -1,0 +1,30 @@
+@media (max-device-width:900px){
+	
+.tabs nav ul{position:relative;display:block;margin:0 auto;padding:0;max-width:1200px;list-style:none;-webkit-justify-content:center;-moz-justify-content:center;-ms-justify-content:center;justify-content:center}
+.tabs nav ul li{position:relative;z-index:1;display:block;margin:0;text-align:center;}
+.tabs nav a{position:relative;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:2.5}
+.tabs nav a span{vertical-align:middle;font-size:.75em}
+	
+.tabs-style-iconbox nav ul li a span {    font-size: 333%;}	
+.logo {    max-width: 50%;}
+.charts label {      font-size: 250%;}
+
+table {    font-size: 140%;}
+.fifty {    display: block;    width: 100%;    font-size: 250%;}
+cite {       font-size: 90%;}
+.bckgblak {    font-size: 250%;}
+#section-underline-1 p {      line-height: 150%;}
+.helper {    display: block;    margin-right: 0;    vertical-align: top;    width: 100%;}
+.bckgblaktheories {    font-size: 250%;}
+
+
+#section-underline-1 h1 {    font-size: 160%;}
+#section-underline-1 h5 {    font-size: 120%;   }
+.bckgblaktheories.half {    display: block;    width: 100%;}
+.halfimage {      width: 70%;}
+#section-underline-7 h3 {    font-size: 320%;    margin-top: 7%;}
+
+.fa-stack {    width: 100px!important;    height: 100px!important;    line-height:100px!important;}
+.fa-stack-2x {    font-size: 100px!important;}
+i.fa.fa-stack-1x.fa-inverse {    font-size: 50px!important;}
+}
